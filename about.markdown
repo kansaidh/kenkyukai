@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+このウェブサイトは、関西デジタルヒストリー研究会のウェブサイトです。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+関西デジタルヒストリー研究会とは、関西圏の歴史研究者がデジタルヒストリーの方法を学び、共有するために作られた手弁当の研究会組織です。 日本史、東洋史、西洋史などといった文化圏あるいは国民国家の「枠」は気にせず、また、古代史から現代史まで、どなたでもお気軽にご参加ください。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+これまでは、[関西デジタルヒストリー研究会のFacebookグループ](https://www.facebook.com/groups/218650495398962)で専ら研究会の告知を行っていましたが、 今後はFacebookアカウントをお持ちでない方のために、こちらでも告知を行ってまいります。
 
+なお、研究会は、関西大学の[菊池](https://researchmap.jp/nobuhikokikuchi)が主に運営を行っております。
 
-[jekyll-organization]: https://github.com/jekyll
+**報告者は随時募集しております。**デジタルを使った歴史研究の成果発表（途中経過含む）をご希望の方は、遠慮なくご連絡ください。
+連絡先は、[菊池のresearachmap](https://researchmap.jp/nobuhikokikuchi)上の連絡先か、[関西デジタルヒストリー研究会のFacebookグループ](https://www.facebook.com/groups/218650495398962)からどうぞ。
